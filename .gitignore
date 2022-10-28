@@ -1,0 +1,4 @@
+build/
+gene_analyser
+callgrind.out.*
+*.prof
