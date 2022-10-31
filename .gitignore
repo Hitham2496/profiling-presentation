@@ -2,3 +2,4 @@ build/
 gene_analyser
 callgrind.out.*
 *.prof
+__pychache__
