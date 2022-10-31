@@ -15,6 +15,8 @@ cd profiling-presentation
 
 To profile the C++ code, we use [`Valgrind`](https://valgrind.org/), move to the original implementation in `cpp/original` and follow the instructions in the slides.
 
+You will first need to compile the code with ``make``.
+
 You may then move to the `cpp/optimised` directory and repeat the profiling process.
 
 Take time to look at the code as well and understand what could be causing performance issues, some of the comments may be helpful
@@ -30,3 +32,11 @@ To install `snakeviz` you may use `pip` e.g.
 ```
 pip install snakeviz (--user)
 ```
+
+## Bonus!
+
+Yannick posed an interesting bonus puzzle, why does C/C++ accumulate much faster for sorted than unsorted arrays?
+
+For details, see Yannick's [snippet](https://gitlab.com/-/snippets/2440600).
+
+Solution in computing club next week!
