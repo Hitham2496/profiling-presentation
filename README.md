@@ -35,7 +35,7 @@ pip install snakeviz (--user)
 
 ## Bonus!
 
-Yannick posed an interesting bonus puzzle, why does C/C++ accumulate much faster for sorted than unsorted arrays?
+Yannick posed an interesting bonus puzzle, why does C/C++ process sorted arrays so much faster than unsorted arrays?
 
 For details, see Yannick's [snippet](https://gitlab.com/-/snippets/2440600).
 
